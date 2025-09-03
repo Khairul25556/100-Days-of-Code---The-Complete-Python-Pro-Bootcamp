@@ -1,1 +1,4 @@
-print("My age: " + str(12))
+
+# PEDMAS
+print(3 * 3 + 3/3 - 3)
+
